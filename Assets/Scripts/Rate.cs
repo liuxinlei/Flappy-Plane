@@ -14,7 +14,7 @@ public class Rate : MonoBehaviour {
 	}
 
 	void OnClick(){
-		string url = "itms-apps://ax.itunes.apple.com/WebObjects/MZStore.woa/wa/viewContentsUserReviews?type=Purple+Software&id=564457517";
+		string url = "itms-apps://ax.itunes.apple.com/WebObjects/MZStore.woa/wa/viewContentsUserReviews?type=Purple+Software&id=836919450";
 		Application.OpenURL(url);
 	}
 }
